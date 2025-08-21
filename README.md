@@ -6,7 +6,7 @@ Perkenalkan nama saya **Wahyu**.<br>
  
 Saya seorang **Mahasiswa Teknik Informatika** di [STT INDONESIA](https://sttindonesia.ac.id/).<br>
  
-Saya sekarang sedang menempuh program Asah led by Dicoding in association with Accenture [Asah](https://www.dicoding.com/asah).<br>
+Saya sekarang sedang menempuh program [Asah led by Dicoding in association with Accenture](https://www.dicoding.com/asah).<br>
  
 <br>
  
@@ -15,7 +15,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/wahyuz-wu">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyuz-wu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyuz-wu&show_icons=true&theme=algolia&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wahyuz-wu&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
