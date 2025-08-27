@@ -8,15 +8,13 @@ Saya seorang **Mahasiswa Teknik Informatika** di [STT INDONESIA](https://sttindo
  
 Saya sekarang sedang menempuh program [Asah led by Dicoding in association with Accenture](https://www.dicoding.com/asah).<br>
  
-<br>
- 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/wahyu-150173216/) ku ya.
  
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/wahyuz-wu">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyuz-wu&show_icons=true&theme=algolia&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wahyuz-wu&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wahyuz-wu&layout=compact&langs_count=9&theme=algolia"/>
 </a>
 </p>
 
